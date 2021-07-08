@@ -1,0 +1,25 @@
+#head {
+    text-align: center;
+    background: linear-gradient(#3271a8 0%, #540006 100%);
+}
+
+body {
+    text-align: center;
+    background-color: blue;
+}
+
+#body {
+    text-align: center;
+    background: linear-gradient(#540006 0%, #3271a8 100%)
+}
+
+img {
+    height: 200px;
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+    text-align: center;
+}
